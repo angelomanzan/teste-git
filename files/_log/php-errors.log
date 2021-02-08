@@ -1,0 +1,24 @@
+[2021-02-08 14:27:39] glpiphplog.WARNING: Session::loadLanguage() in /var/www/html/inc/session.class.php line 628
+Missing required intl PHP extension  {"user":"@ip-10-0-1-125"} 
+[2021-02-08 14:27:42] glpiphplog.WARNING: Session::loadLanguage() in /var/www/html/inc/session.class.php line 628
+Missing required intl PHP extension  {"user":"@ip-10-0-1-125"} 
+[2021-02-08 14:27:44] glpiphplog.WARNING: Session::loadLanguage() in /var/www/html/inc/session.class.php line 628
+Missing required intl PHP extension  {"user":"@ip-10-0-1-125"} 
+[2021-02-08 14:27:47] glpiphplog.WARNING: Session::loadLanguage() in /var/www/html/inc/session.class.php line 628
+Missing required intl PHP extension  {"user":"@ip-10-0-1-125"} 
+[2021-02-08 14:27:47] glpiphplog.WARNING: Test logger  
+[2021-02-08 14:27:47] glpiphplog.WARNING: Session::loadLanguage() in /var/www/html/inc/session.class.php line 628
+Missing required intl PHP extension  {"user":"@ip-10-0-1-125"} 
+[2021-02-08 14:30:37] glpiphplog.WARNING: Session::loadLanguage() in /var/www/html/inc/session.class.php line 628
+Missing required intl PHP extension  {"user":"@ip-10-0-1-125"} 
+[2021-02-08 14:30:37] glpiphplog.WARNING: Test logger  
+[2021-02-08 14:30:37] glpiphplog.WARNING: Session::loadLanguage() in /var/www/html/inc/session.class.php line 628
+Missing required intl PHP extension  {"user":"@ip-10-0-1-125"} 
+[2021-02-08 14:30:41] glpiphplog.WARNING: Session::loadLanguage() in /var/www/html/inc/session.class.php line 628
+Missing required intl PHP extension  {"user":"@ip-10-0-1-125"} 
+[2021-02-08 14:30:41] glpiphplog.WARNING: Test logger  
+[2021-02-08 14:30:41] glpiphplog.WARNING: Session::loadLanguage() in /var/www/html/inc/session.class.php line 628
+Missing required intl PHP extension  {"user":"@ip-10-0-1-125"} 
+[2021-02-08 14:31:04] glpiphplog.WARNING: Test logger  
+[2021-02-08 14:31:52] glpiphplog.WARNING: Test logger  
+[2021-02-08 14:32:29] glpiphplog.WARNING: Test logger  
